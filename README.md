@@ -8,12 +8,12 @@ Step1:
   [https://code.visualstudio.com/download]
 
 Step2:
-  go-to extensions and download following extensions
-    1.Prettier codeformatter v10.1.0
+  go-to extensions and download following extensions <br>
+    1.Prettier codeformatter v10.1.0 <br>
     2.Live server v5.7.9
 
 Step3:
-  Download all the files I have provided, and store it in a folder
+  Download all the files I have provided, and store it in a folder <br>
   then open VS-code and press Ctrl+Shift+T and click on open folder> then choose the folder where you have stored all the files
   
 Step4:
