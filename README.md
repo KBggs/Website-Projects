@@ -3,26 +3,26 @@ Website projects  with HTML,CSS and next.js
 
 Steps to write your first HTML,CSS program:
 
-Step1:
-  download visual studio code 
-  [https://code.visualstudio.com/download]
+Step1: <br>
+  download visual studio code <br>
+  [https://code.visualstudio.com/download] <br>
 
-Step2:
+Step2: <br> <br>
   go-to extensions and download following extensions <br>
     1.Prettier codeformatter v10.1.0 <br>
-    2.Live server v5.7.9
+    2.Live server v5.7.9 <br> <br>
 
-Step3:
+Step3: <br>
   Download all the files I have provided, and store it in a folder <br>
-  then open VS-code and press Ctrl+Shift+T and click on open folder> then choose the folder where you have stored all the files
+  then open VS-code and press Ctrl+Shift+T and click on open folder> then choose the folder where you have stored all the files <br> <br>
   
-Step4:
-  Open the .html file and right-click, select "Open with live server" and you will see my code running
+Step4: <br>
+  Open the .html file and right-click, select "Open with live server" and you will see my code running <br> <br>
 
 
 
-These are some websites which might help you-
-1. [https://boxicons.com/]
-2. [https://www.flaticon.com/]
-3. [https://www.wallpaperflare.com] (for backgrounds)
-4. [https://www.figma.com] (we design first)
+These are some websites which might help you- <br>
+1. [https://boxicons.com/] <br>
+2. [https://www.flaticon.com/] <br>
+3. [https://www.wallpaperflare.com] (for backgrounds) <br> 
+4. [https://www.figma.com] (we design first) <br>
