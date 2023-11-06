@@ -24,5 +24,5 @@ Step4:
 These are some websites which might help you-
 1. [https://boxicons.com/]
 2. [https://www.flaticon.com/]
-3. [https://www.wallpaperflare.com](for backgrounds)
+3. [https://www.wallpaperflare.com] (for backgrounds)
 4. [https://www.figma.com] (we design first)
