@@ -5,9 +5,9 @@ Steps to write your first HTML,CSS program:
 
 Step1: <br>
   download visual studio code <br>
-  [https://code.visualstudio.com/download] <br>
+  [https://code.visualstudio.com/download] <br> <br>
 
-Step2: <br> <br>
+Step2: <br> 
   go-to extensions and download following extensions <br>
     1.Prettier codeformatter v10.1.0 <br>
     2.Live server v5.7.9 <br> <br>
